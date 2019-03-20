@@ -1,0 +1,7 @@
+C:\Users\Section2\Desktop\ButikOtelRezervasyonu1\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\ButikOtelRezervasyonu1\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\ButikOtelRezervasyonu1\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.exe.config
+C:\Users\Section2\Desktop\ButikOtelRezervasyonu1\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.exe
+C:\Users\Section2\Desktop\ButikOtelRezervasyonu1\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\bin\Debug\ButikOtelRezervasyonu3.pdb
+C:\Users\Section2\Desktop\ButikOtelRezervasyonu1\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.exe
+C:\Users\Section2\Desktop\ButikOtelRezervasyonu1\ButikOtelRezervasyonu1\ButikOtelRezervasyonu3\obj\Debug\ButikOtelRezervasyonu3.pdb
